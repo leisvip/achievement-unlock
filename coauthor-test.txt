@@ -1,0 +1,2 @@
+# Co-authored commit
+This commit has a co-author
